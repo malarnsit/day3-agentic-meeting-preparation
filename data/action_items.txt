@@ -1,0 +1,36 @@
+ACME CORP - OPEN ACTION ITEMS
+
+Action Item 1:
+Owner: Analytics Team
+Task: Share detailed implementation timeline.
+Status: Open
+Priority: High
+Due Date: 29 August 2026
+
+Action Item 2:
+Owner: Sales Team
+Task: Share commercial pricing proposal.
+Status: Open
+Priority: High
+Due Date: 30 August 2026
+
+Action Item 3:
+Owner: Technical Team
+Task: Provide CRM integration documentation.
+Status: Open
+Priority: Medium
+Due Date: 30 August 2026
+
+Action Item 4:
+Owner: Security Team
+Task: Share security and access control documentation.
+Status: Open
+Priority: High
+Due Date: 30 August 2026
+
+Action Item 5:
+Owner: Analytics Team
+Task: Prepare customer retention dashboard demonstration.
+Status: Completed
+Priority: Medium
+Due Date: 27 August 2026

@@ -1,0 +1,40 @@
+ACME CORP - PREVIOUS MEETING NOTES
+
+Meeting Date: 25 August 2026
+
+Attendees:
+Sarah Johnson - VP of Operations
+Michael Chen - Director of Data and Analytics
+Mala - Analytics Team
+
+Discussion:
+The Acme team discussed their current reporting challenges.
+They explained that weekly management reports are manually created using spreadsheets.
+
+Sarah was particularly interested in automated customer retention dashboards.
+
+Michael asked whether our platform can integrate with their existing CRM.
+
+The client requested information about implementation timelines and pricing.
+
+The client also asked about data security, role-based access control, and data governance.
+
+Agreed Points:
+1. Our team will provide a proposed implementation timeline.
+2. Our team will share pricing information.
+3. Our team will provide CRM integration details.
+4. Our team will share information about security and access controls.
+
+Client Feedback:
+The product capabilities were positively received.
+The main concerns are implementation effort, pricing, and data security.
+
+Next Meeting:
+31 August 2026
+
+Expected Discussion:
+Pricing
+Implementation timeline
+CRM integration
+Security
+Final decision-making process

@@ -1,0 +1,41 @@
+ACME CORP - CLIENT PROFILE
+
+Acme Corp is a mid-sized enterprise software company headquartered in Bengaluru.
+
+Industry:
+Enterprise Software and Technology
+
+Company Size:
+Approximately 1,500 employees.
+
+Current Engagement:
+Acme Corp is evaluating our analytics platform for improving customer retention, sales forecasting, and operational reporting.
+
+Primary Client Contact:
+Sarah Johnson - VP of Operations
+
+Secondary Contact:
+Michael Chen - Director of Data and Analytics
+
+Current Business Priorities:
+1. Improve customer retention.
+2. Build better sales forecasting capabilities.
+3. Reduce manual reporting.
+4. Create centralized business dashboards.
+
+Current Challenges:
+Acme currently uses multiple spreadsheets and disconnected reporting systems.
+Their management team spends significant time manually preparing weekly reports.
+They also have difficulty identifying customer churn risks early.
+
+Potential Solution:
+Our analytics platform can provide automated dashboards, customer analytics, forecasting, and centralized reporting.
+
+Commercial Status:
+The client has completed the initial product evaluation.
+They are currently reviewing pricing and implementation requirements.
+
+Important Considerations:
+Acme wants implementation to be completed within three months.
+They require integration with their existing CRM system.
+Data security and access control are important decision factors.
